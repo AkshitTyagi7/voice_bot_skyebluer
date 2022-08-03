@@ -8,11 +8,11 @@
     "responses":["age"]
     },
     {"tag":"name",
-    "patterns":["what is your name","what should I call you","whats your name","who","can you tell me your name"],
+    "patterns":["what is your name","what should I call you","whats your name","who are you","can you tell me your name"],
     "responses":["name"]
     },
     {"tag":"country",
-    "patterns":["where do you live","from which country are you from","where are you from"],
+    "patterns":["where do you live","from which country are you from","where are you from","country"],
     "responses":["country"]
     }
 ]
