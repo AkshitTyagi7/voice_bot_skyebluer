@@ -7,6 +7,7 @@ import pickle
 from unittest import result
 import numpy as np
 import nltk
+nltk.download('punkt')
 from nltk.stem import WordNetLemmatizer
 from tensorflow.python.keras.models import load_model
 lemmatizer = WordNetLemmatizer()
