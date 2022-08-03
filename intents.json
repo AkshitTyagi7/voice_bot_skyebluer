@@ -1,4 +1,8 @@
 {"intents":[
+    {"tag":"repeat",
+    "patterns":["random"],
+    "responses":["repeat"]
+    },
     {"tag":"greetings",
     "patterns":["hello","hey","hi","good day","greetings","what's up","how it is going?","hai"],
     "responses":["hello"]
