@@ -1,0 +1,20 @@
+{"intents":[
+    {"tag":"greetings",
+    "patterns":["hello","hey","hi","good day","greetings","what's up","how it is going?","hai"],
+    "responses":["hello"]
+    },
+    {"tag":"age",
+    "patterns":["how old","what is your age","how old are you","age?"],
+    "responses":["age"]
+    },
+    {"tag":"name",
+    "patterns":["what is your name","what should I call you","whats your name","who are you","can you tell me your name"],
+    "responses":["name"]
+    },
+    {"tag":"country",
+    "patterns":["where do you live","from which country are you from","where are you from","country","can you tell me something about your country"],
+    "responses":["country"]
+    }
+]
+
+}
