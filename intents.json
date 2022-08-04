@@ -8,7 +8,7 @@
     "responses":["hello"]
     },
     {"tag":"age",
-    "patterns":["old","age"],
+    "patterns":["old","age","how old"],
     "responses":["age"]
     },
     {"tag":"name",
