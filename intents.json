@@ -1,0 +1,24 @@
+{"intents":[
+    {"tag":"Greeting",
+    "patterns":["random","cafe","family","file","extract","weather","weather in"],
+    "responses":["repeat"]
+    },
+    {"tag":"Hi",
+    "patterns":["hello","hey","hi","greetings","hai"],
+    "responses":["hello"]
+    },
+    {"tag":"age",
+    "patterns":["old","age","how old"],
+    "responses":["age"]
+    },
+    {"tag":"name",
+    "patterns":["name","can you tell me your name"],
+    "responses":["name"]
+    },
+    {"tag":"country",
+    "patterns":["where do you live","country","from"],
+    "responses":["country"]
+    }
+]
+
+}
